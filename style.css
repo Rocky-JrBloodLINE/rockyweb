@@ -10,8 +10,7 @@ body{
     background-color: #3d5c08;
 }
 .main__content {
-    color:rgb(129, 24, 24);
-  
+    color:rgb(199, 65, 65);
   
 }
 h2 {color: goldenrod;}
@@ -72,8 +71,10 @@ a{
     text-align: center;
 }
 p {font-size: 20px ;}
-    h4{color: bisque;
-    text-align: center;}
+h4 {color: bisque;
+text-align: center;}
+
+
 
 .audio {
     background-color: chocolate;
@@ -91,5 +92,4 @@ p{
  
     text-align: center;
 }
-</body>
  

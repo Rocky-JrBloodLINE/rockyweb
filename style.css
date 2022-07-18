@@ -11,6 +11,8 @@ body{
 }
 .main__content {
     color:rgb(129, 24, 24);
+    h4{
+    color: aqua;
   
 }
 h2 {color: goldenrod;}
@@ -88,6 +90,5 @@ p{
  
     text-align: center;
 }
-h4{
-    color: aqua;
+</body>
  
